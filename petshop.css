@@ -1,0 +1,52 @@
+nav{
+    background-color: black;
+    
+
+}
+nav a{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+.upper{
+    background-image: url(imgcat2.jpg.jpg);
+    background-size: cover;
+    height: 500px;
+    text-align: center;
+    }
+button{
+   background-color: lightsalmon;
+    color: black;
+    border-radius: 5px;
+}
+body{
+    background-color: black;
+}
+h2{
+    color: lightsalmon;
+    text-align: center;
+}
+h3{
+    color: lightsalmon;
+    text-align: center;
+}
+p{
+    color: white;
+}
+.div1{
+    background-image: url(rabits.jpg);
+    background-size: 1000px 600px;
+    height: 600px;
+    text-align: center;
+}
+.four-cards{
+    display: flex;
+    color: white;
+}
+footer{
+    color: white;
+    text-align: center;
+}
+
+
+
